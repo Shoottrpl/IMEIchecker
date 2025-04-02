@@ -1,0 +1,17 @@
+**/.git
+**/.venv
+**/__pycache__
+**/.mypy_cache
+**/.pytest_cache
+**/*.log
+**/.env
+**/.env.local
+**/build
+**/coverage
+**/.DS_Store
+**/Thumbs.db
+
+**/postgres_data
+**/pgadmin_data
+**/redis_data
+
