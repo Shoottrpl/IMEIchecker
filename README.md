@@ -29,6 +29,6 @@
 # 1. Клонируйте репозиторий  
 git clone https://github.com/Shoottrpl/IMEIchecker
 # 2. Соберите образы  
-docker compose -f build 
+docker compose build
 
 ```
